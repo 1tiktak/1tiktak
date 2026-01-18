@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1tiktak
-- 💞️ I’m looking to collaborate on any cool sekf driving projects.
+- 💞️ I’m looking to collaborate on any cool self driving projects.
 - 📫 How to reach me taikratoke663@me.com
 
 <!---
